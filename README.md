@@ -1,2 +1,2 @@
 # controlm-command-line-automation
-shell scripts for automating deploying a CONTROL M XML using utilities provided by BMC
+shell scripts for automating stuff in a CONTROL M using utilities provided by BMC
